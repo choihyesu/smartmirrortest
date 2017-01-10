@@ -1,0 +1,1 @@
+var FORCAST_API_KEY = "0427b2e5b66bd8ea6cb0050d93982e2b";
